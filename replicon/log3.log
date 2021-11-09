@@ -1,0 +1,10 @@
+WARNING:root:Add:20 + 10 = 30
+ERROR:root:Sub:20 - 10 = 10
+WARNING:root:Add:20 + 10 = 30
+ERROR:root:Sub:20 - 10 = 10
+WARNING:root:Add:20 + 10 = 30
+ERROR:root:Sub:20 - 10 = 10
+WARNING:root:Add:20 + 10 = 30
+ERROR:root:Sub:20 - 10 = 10
+INFO:root:Add:20 + 10 = 30
+ERROR:root:Sub:20 - 10 = 10
